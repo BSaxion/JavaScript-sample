@@ -1,0 +1,21 @@
+.image-container {
+   background-color: lightblue;
+}
+
+img {
+    border-color: #1b6d85;
+}
+
+button.bulb-on {
+
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+}
+
+button.bulb-off {
+
+    margin-bottom: 10px;
+    padding: 10px;
+    position: relative;
+}
